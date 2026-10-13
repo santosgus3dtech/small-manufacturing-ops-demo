@@ -1,5 +1,7 @@
 # Small Manufacturing Operations Demo
 
+🇧🇷 [Leia este README em Português (Brasil)](README.pt-BR.md).
+
 A portfolio-safe operations dashboard inspired by real small-manufacturing and 3D-printing workflows. Every customer, order and financial value is synthetic.
 
 ![Manufacturing operations dashboard](docs/screenshots/dashboard.png)
